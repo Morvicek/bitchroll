@@ -48,7 +48,7 @@
 body {
     margin: 0;
     overflow: hidden;
-  font-family: 'Cairo Play', cursive;
+  font-family: 'Cairo', sans-serif;
     background:#0f0f0f;
   color: white;
 }
@@ -132,4 +132,5 @@ body {
   left: 2%;
   color: #a3a3a3;
   text-shadow:0 0 10px #bdbdbd;
+  font-family: 'Cairo Play', cursive;
 }
