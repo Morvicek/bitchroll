@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    document.getElementById('cropy').innerText = `© 1918 - ${new Date().getFullYear()} ~ Morvicek`;
+    document.getElementById('cropy').innerText = `© 69420 - ${new Date().getFullYear()} ~ Morvicek`;
 
 })
 
