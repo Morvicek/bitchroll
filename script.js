@@ -11,13 +11,26 @@ const x = [
   'Ella',
   'Róza',
   'Mája',
-  'Lucka (Letiště) '
+  'Lucka (Letiště)',
+    "Adam"
 ];
 
 const l = [
   'Včera večer v parku...',
   'baf',
   'Tak sem tady, co byly tvoje další dvě přání?',
+  'Čau Šťávo, kam tečeš?',
+  'Nepracuješ náhodou v cukrářství? Protože jsi fakt sladká.',
+  'Na stupnici od 1 do 10 jsi 9. A já jsem ta  1, která ti chybí.',
+  'Promiň, to jsi mluvila na mě? Ne? Nevadí, můžeš s tím začít klidně teď.',
+  'Existují tři druhy holek, které se líbí klukům: roztomilé, hezké a sexy. Je zajímavé, že ty splňuješ všechny tři podmínky.',
+  'Jsi opravdu krásná, ale myslím si, že to je na tobě to nejméně zajímavé. Rád bych se dozveděl víc.',
+  'Ty seš tak hezká, že jsem zapomněl svojí balící hlášku.',
+  'Sex?',
+  'Můj táta se v mém životě objevuje stejně jako Patrik u nás ve škole',
+  'Ztratil jsem své telefonní číslo, nechceš mi půjčit to tvoje?',
+  'mrk mrk',
+  'Přitahuješ mě natolik, že bych kvůli tobě klidně začal číst'
 ];
 
 $("#roll").click(function(){
